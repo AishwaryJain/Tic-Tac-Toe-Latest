@@ -1,5 +1,5 @@
-# tic-tac-toe-svelte
+# tic-tac-toe
 
-> Tic Tac Toe game made in Svelte
+> Tic Tac Toe game 
 
 Check out the [demo](https://tic-tac-toe-svelte.netlify.com).
